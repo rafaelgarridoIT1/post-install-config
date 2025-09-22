@@ -1,4 +1,4 @@
-# post-install-config
+# 
 
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" height="75%" width="100%"alt="osTicket logo"/>
